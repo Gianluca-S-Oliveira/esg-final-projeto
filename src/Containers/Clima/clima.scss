@@ -1,0 +1,39 @@
+/* clima.scss */
+
+
+.clima-container {
+    max-width: 400px;
+    margin: 5% auto;
+    padding: 20px;
+    border: 1px solid #166919;
+    border-radius: 15px;
+
+}
+
+.cidade-input {
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: #227225;
+    font-weight: 700;
+}
+
+.buscar-btn {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.dados-clima {
+    margin-top: 20px;
+
+    strong {
+        color: #4caf50;
+    }
+}
+
+/* Add more styles as needed */

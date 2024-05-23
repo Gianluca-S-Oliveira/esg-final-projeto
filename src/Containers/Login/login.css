@@ -1,0 +1,71 @@
+.loginContainer {
+  display: flex;
+  background-color: aquamarine;
+  width: 100%;
+  align-items: center;
+  overflow-x: hidden;
+  height: 100vh;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.form {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  align-items: center;
+  /* Centralize verticalmente */
+  justify-content: center;
+  width: 400px;
+  padding: 30px;
+  height: 500px;
+  position: relative;
+  /* Para que a posição absoluta do ícone seja relativa a este contêiner */
+}
+
+.icon {
+  font-size: 7rem;
+  position: absolute;
+  top: 12%;
+  transform: translateY(-50%);
+}
+
+
+
+
+.a {
+  text-decoration: none;
+  margin-top: 40px;
+  background-color: rgb(14, 153, 107);
+  padding: 15px 80px;
+  border-radius: 20px;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+}
+
+.a:hover {
+  background-color: rgb(65, 179, 141);
+}
+
+.label {
+  font-size: 1.4rem;
+  margin-bottom: 10px;
+  color: rgb(10, 120, 83);
+  margin-top: 20px;
+  text-transform: uppercase;
+}
+
+.input {
+  width: 300px;
+  border-radius: 20px;
+  padding: 15px;
+  border: none;
+  background-color: rgba(209, 209, 209, 0.483);
+}
+
+.input:focus {
+  outline: none;
+  border: 2px solid rgb(10, 120, 83);
+}
