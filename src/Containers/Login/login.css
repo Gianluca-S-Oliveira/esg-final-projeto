@@ -1,11 +1,11 @@
 .loginContainer {
   display: flex;
   background-color: aquamarine;
-  width: 100%;
   align-items: center;
   overflow-x: hidden;
   height: 100vh;
   justify-content: space-evenly;
+  flex-direction: column;
   flex-wrap: wrap;
 }
 

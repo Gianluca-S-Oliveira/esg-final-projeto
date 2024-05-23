@@ -11,7 +11,6 @@ export default function LoginPage() {
   };
   return (
     <>
-      <></>
 
       <section className="loginContainer">
         <section className="picture">
