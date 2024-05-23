@@ -1,4 +1,5 @@
 Projeto ESG - README
+
 Visão Geral do Projeto
 Este projeto foi desenvolvido com o intuito de promover a conscientização e o engajamento dos usuários com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU, com foco específico nos objetivos "Saúde e Bem-Estar" e "Fome Zero". Nossa plataforma ESG integra diversas tecnologias e funcionalidades para criar uma experiência interativa e educativa.
 
