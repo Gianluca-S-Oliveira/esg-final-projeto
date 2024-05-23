@@ -17,7 +17,7 @@ export default function LoginPage() {
           <img src={imagem} />
         </section>
 
-        <section className="form">
+        <section className="forme">
           <BiUserCircle color="aquamarine" className="icon" />
           <label className="label"> Nome</label>
           <input className="input" placeholder="Nome" labelText={"Nome"} onChange={(nome) => setNome(nome.target.value)} />
